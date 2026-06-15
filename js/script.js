@@ -68,7 +68,6 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
 
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 
 
   (function() {
@@ -130,7 +129,6 @@ var ekit_config = {"ajaxurl":"https://automobquotes.com/wp-admin/admin-ajax.php"
 //# sourceURL=elementskit-elementor-js-extra
 
 
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://automobquotes.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
 
 
 /*! This file is auto-generated */
